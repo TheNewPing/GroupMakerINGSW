@@ -6,3 +6,4 @@ Le offerte vengono rappresentate attraverso una tabella in formato .csv.
 
 Per eseguire lo script, passare il filepath della tabella come primo argomento nella chiamata su console.
 
+Esempio: `python GroupMakerINGSW.py ./test.csv`
